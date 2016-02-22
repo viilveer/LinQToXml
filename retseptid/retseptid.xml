@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<retseptid>
+  <retsept toidunimi="Grillitud pardisüdamed">
+    <koostisosa nimi="sojakaste" kogus="2 spl" kommentaar=""/>
+    <koostisosa nimi="suhkur" kogus="1 tl" kommentaar=""/>
+    <koostisosa nimi="sool" kogus="1 tl" kommentaar=""/>
+    <koostisosa nimi="sibul" kogus="1tk" kommentaar=""/>
+    <koostisosa nimi="küüslauguküüs" kogus="2 tk" kommentaar=""/>
+    <koostisosa nimi="sinep" kogus="1 spl" kommentaar="mahe, magus"/>
+    <koostisosa nimi="tomatipasta" kogus="250 g" kommentaar=""/>
+    <koostisosa nimi="pardisüdamed" kogus="500 g" kommentaar=""/>
+    <koostisosa nimi="majonees" kogus="100 g" kommentaar=""/>
+  </retsept>
+  <retsept toidunimi="Jõhvikad tumedas šokolaadis">
+    <koostisosa nimi="jõhvikad" kogus="150 g" kommentaar="võivad olla külmutatud"/>
+    <koostisosa nimi="šokolaad" kogus="200 g" kommentaar="tume 70%"/>
+  </retsept>
+  <retsept toidunimi="Mündi-šokolaadikreem">
+    <koostisosa nimi="suhkur" kogus="3spl" kommentaar=""/>
+    <koostisosa nimi="šokolaad" kogus="200 g" kommentaar="münditäidesega (After Eight)"/>
+    <koostisosa nimi="koor" kogus="2 dl" kommentaar="Rõõsk koor 35%"/>
+    <koostisosa nimi="mascarpone" kogus="250 g" kommentaar=""/>
+    <koostisosa nimi="kooreliköör" kogus="4spl" kommentaar=""/>
+  </retsept>
+</retseptid>
